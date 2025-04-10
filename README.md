@@ -7,7 +7,7 @@
 <h3 align="center"> AI Developer </h3>
 
 <div align="center">
-<a href="https://linkedin.com/in/sayedmohammedsalimkp" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sayedmohammedsalimkp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sydsalim" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sayedmohammedsalimkp" height="30" width="40" /></a>
 <!-- <a href="https://leetcode.com/u/josephfrancis23/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="josephfrancis23" height="30" width="40" /></a> -->
 <a href="mailto:salimsayed011@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail-salimsayed011@gmail.com" height="30" width="30" /></a>
 
